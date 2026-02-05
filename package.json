@@ -2,7 +2,7 @@
   "name": "tedeidenchavez621.github.io",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tedeidenchavez621.github.io/tedeidenchavez621.github.io",
+  "homepage": "https://tedeidenchavez621.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
