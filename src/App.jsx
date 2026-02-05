@@ -6,7 +6,7 @@ const App = () => {
         <div className="container">
             <img src={String(duduBubu)} alt="Bubu and Dudu" />
             <form>
-
+                
             </form>
         </div>
     );
