@@ -28,7 +28,15 @@
     transition: transform 0.2s;
     background-color: var(--button-hover-color);
 }
+.content-area {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 .content-area img {
-    max-width: 100px;
+    max-height: 100px;
     height: auto;
 }
