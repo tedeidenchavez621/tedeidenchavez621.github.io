@@ -28,3 +28,7 @@
     transition: transform 0.2s;
     background-color: var(--button-hover-color);
 }
+.content-area img {
+    max-width: 100px;
+    height: auto;
+}
